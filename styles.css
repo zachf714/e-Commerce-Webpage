@@ -1,0 +1,96 @@
+#header 
+{
+	background: #000000;
+	width: 100%;
+	margin-top: 0px;
+}
+#title
+{
+	width: 1200px;
+	margin: auto;
+	color: white;
+	text-align: center;
+	font-size: 2em;
+}
+#menu
+{
+	background: #2063B0;
+	width: 100%;
+	margin-top: 0px;
+	color: white;
+	text-align: center;
+	text-decoration: bold;
+}
+.pictures
+{
+	width: 1200px;
+	margin: auto;
+}
+#carosel-background
+{
+	width: 100%;
+	background: #123863;
+}
+#banner
+{
+	height: 200px;
+}
+#guitar
+{
+	height: 317px;
+}
+#guitar2
+{
+	width: 800px;
+	margin: auto;
+}
+#hundredheight
+{
+	height: 100%
+}
+#bodystyle
+{
+	width: 1200px;
+	margin: 0px auto;
+	display: block;
+}
+body
+{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	font-family: 'Roboto', sans-serif;
+	background: #D1DDE8;
+}
+a
+{
+	text-decoration: bold;
+	font-size: 20px
+
+}
+a:link
+{
+	text-decoration: none;
+	color: white
+}
+a:visited
+{
+	color: #D1DDE8;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+hr
+{
+	background-color: black;
+	height: 2px;
+}
+ul
+{
+	list-style-type: circle;
+}
+p
+{
+	width: 90%;
+}
